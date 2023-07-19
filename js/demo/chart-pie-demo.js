@@ -10,8 +10,8 @@ var myPieChart = new Chart(ctx, {
     labels: ["Online", "Offline", "Abnormal"],
     datasets: [{
       data: [166,20,100],
-      backgroundColor: ['#4e73df', '#1cc88a', '#36b9cc'],
-      hoverBackgroundColor: ['#2e59d9', '#17a673', '#2c9faf'],
+      backgroundColor: ['#4e73df', '#858796', '#f6c23e'],
+      hoverBackgroundColor: ['#2e59d9', '#5a5c69', '#f6af3e'],
       hoverBorderColor: "rgba(234, 236, 244, 1)",
     }],
   },
